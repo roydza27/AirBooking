@@ -1,6 +1,3 @@
-Here is the **complete file in proper Markdown** for your `README.md`:
-
-````md
 # ✈ AirBooking System — Setup Guide
 
 ## ✅ Prerequisites Checklist
